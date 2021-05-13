@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from 'next/lgit aink'
 import Image from 'next/image'
 
 export default function Navbar() {
